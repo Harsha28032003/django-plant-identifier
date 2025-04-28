@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-jbn0sj4&1t3n=jn29j545f!$g96y&a@)d*#t$-1a-d8=c#4e51
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-plant-identifier-3.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 
 
